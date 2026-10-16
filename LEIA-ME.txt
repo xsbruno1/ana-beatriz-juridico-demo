@@ -1,0 +1,45 @@
+ANA BEATRIZ — DEMONSTRAÇÃO REVISADA
+
+Site: https://ana-beatriz-juridico-demo.onrender.com/
+Contatos: https://vereda-juridico-demo.onrender.com/contatos.html
+Build: node build.mjs. Saída: dist/. Sem dependências npm.
+O formulário utiliza JavaScript e Supabase. O JSON contém chave publicável.
+
+PARA APRESENTAR
+Use nome começando com Teste e e-mail @example.com no formulário.
+Selecione a área, confirme o aviso e envie. Um protocolo confirma a gravação.
+No Vereda, abra Primeiro acesso ou acesso sem senha e use o e-mail autorizado.
+Após autenticar, consulte contatos e defina status, responsável e próximo passo.
+A conversão manual em cliente não cria processo. As outras telas continuam locais.
+O envio público foi validado ao vivo. O primeiro login pelo e-mail do titular
+precisa ser realizado por ele. A sessão autenticada online não foi testada.
+
+ANTES DO LANÇAMENTO PROFISSIONAL
+Confirmar nome, OAB, contatos e responsável pelo escritório. Revisar conteúdo,
+privacidade e operação. Recepção limitada a dados fictícios no servidor.
+Site público com noindex. A caixa de contatos exige acesso autorizado.
+Configurar SITE_URL e revisar cfg.production no build somente após concluir
+essas etapas e adaptar o formulário para uso real.
+
+REVISÃO VISUAL
+Direção final escolhida com revisão do Astra em potência extra alta (xhigh).
+Logo geométrica aberta, independente das iniciais. Papéis sobrepostos e painel
+editorial no desktop; texto principal primeiro no celular. Cartões centralizados,
+seção verde, FAQ em duas colunas e formulário integrado ao conjunto visual.
+Marfim, verde e terracota: escolha estética sem efeito psicológico universal.
+Rótulos funcionais com pelo menos 12px; consentimento e status com 13px.
+Pares principais de texto da revisão final com contraste mínimo de 4,97:1.
+Gemini, Claude, DeepSeek e Grok participaram das rodadas anteriores de sugestões.
+A composição retoma a referência do Gemini apreciada pelo usuário, sem a logo
+em arco rejeitada por sua aparência de lápide.
+
+VERIFICAÇÕES
+Páginas públicas HTTP 200; envio pelo site publicado devolveu protocolo;
+consulta anônima da caixa HTTP 401; 21 testes de banco previamente aprovados;
+111 verificações de estrutura e links aprovadas. Layouts de 320, 390 e 1440px
+conferidos; telas móveis sem rolagem horizontal.
+
+FONTES OAB CONSULTADAS
+https://www.oab.org.br/leisnormas/legislacao/provimentos/205-2021
+https://www.oab.org.br/leisnormas/legislacao/resolucoes/07-2016
+
